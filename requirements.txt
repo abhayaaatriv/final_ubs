@@ -6,3 +6,4 @@ opencv-python==4.9.0.80
 numpy==1.26.4
 sendgrid==6.11.0
 python-dotenv==1.0.1
+gunicorn==21.2.0
